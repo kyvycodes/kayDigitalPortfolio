@@ -1,0 +1,49 @@
+a:link {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+li {
+display: inline;
+padding: 14px 16px;
+
+}
+ul {
+list-style-type: none;
+margin: 15px;
+padding: 15px;
+overflow: hidden;
+background-color: rgb(95, 74, 74);
+}
+
+*{
+font-family: 'McLaren', cursive;
+}
+
+
+
+h1 {
+  font-size: 100px;
+  color: #ffff99;
+}
+
+
+p {
+font-size: 30px;
+padding: 70px;
+text-align: center;
+}
+
+div {
+  background-image: url(https://images.unsplash.com/photo-1491147334573-44cbb4602074?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60);
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  color: pink;
+  padding: 0px;
+}
+
+      </body>
+  
+  </html>
